@@ -8,7 +8,7 @@ BeaconBlink is a system of mobile devices capable of indoor localization using W
 - Filtering the rooms based on tags.
 
 ### System architecture
-![BeaconBlink_diagram_eng drawio]()
+![BeaconBlink_diagram_eng drawio](BeaconBlink_diagram_eng.png)
 
 
 ## Team
